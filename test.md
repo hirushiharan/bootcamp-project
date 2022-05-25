@@ -82,12 +82,6 @@ Mainly five steps followed under this process such as
   ![WebImageNew](https://user-images.githubusercontent.com/84900433/163724695-78c5b9a0-c992-4ad1-b86f-dcefc1aefadd.jpg)
 
 
-## Results
-
-https://user-images.githubusercontent.com/84900433/163723299-8d3c127b-5dba-4b3a-83a8-8ac69fa138dc.mp4
-
-https://user-images.githubusercontent.com/84900433/163722127-ce9f5669-18b5-4758-8977-d8b9a2d11556.mp4
-
 ## Usage
 
 In this repository, we provide real-time location detection, object detection, lane line detection, traffic sign detection and the real-time Google map. You can find the code for the above in the Detections folder. 
